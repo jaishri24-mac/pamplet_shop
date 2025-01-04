@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+  
+}
+.box{
+    background-color:white;
+    width: 570px;
+    height: 800px;
+    border-radius: 10px;
+    padding: auto;
+    
+}
+.card{
+   padding: 7px;
+  
+}
+.card img{
+    border-radius: 3px;
+    height: 450px;
+    width: 555px;
+    padding-right: 0%;
+}
+
+.content{
+    padding: 5px 13px;
+}
+.content p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    text-align: center;
+}
+.btn button{
+    padding: 0px 7px;
+    border-radius: 5px;
+    background-color: yellow;
+    font-size: 20px;
+    border: none;
+    margin-top: 5px;
+}
